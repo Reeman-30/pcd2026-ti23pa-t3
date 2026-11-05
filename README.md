@@ -12,7 +12,7 @@ Memulihkan citra yang rusak oleh noise, blur, atau artefak kompresi JPEG. Anggot
 
 | Notebook | Tahap | Isi | Buka |
 | --- | --- | --- | --- |
-| `01_dataset_preprocessing.ipynb` | 1 | Statistik dataset, cek anotasi, preprocessing, gambar sebelum–sesudah | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Prodi-TI-IBIKesatuan/pcd2026-ti23pa-t3/blob/main/notebooks/01_dataset_preprocessing.ipynb) |
+| `01_dataset_preprocessing.ipynb` | 1 | Statistik dataset, cek anotasi, preprocessing, gambar sebelum–sesudah | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1siTotZFsFBRf7HQIzf6Ze2WXyKVJq1ao?usp=sharing) |
 | `02_metode_klasik.ipynb` | 2 | 2 metode klasik dan metriknya | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Prodi-TI-IBIKesatuan/pcd2026-ti23pa-t3/blob/main/notebooks/02_metode_klasik.ipynb) |
 | `03_metode_modern.ipynb` | 2 | Inferensi model pralatih dan metriknya | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Prodi-TI-IBIKesatuan/pcd2026-ti23pa-t3/blob/main/notebooks/03_metode_modern.ipynb) |
 | `04_evaluasi.ipynb` | 2 | Tabel perbandingan, uji ablasi, kasus gagal | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Prodi-TI-IBIKesatuan/pcd2026-ti23pa-t3/blob/main/notebooks/04_evaluasi.ipynb) |
